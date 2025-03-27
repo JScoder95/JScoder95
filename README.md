@@ -8,7 +8,7 @@ You can checkout mi [Repository](https://github.com/JScoder95?tab=repositories) 
 
 ## 💼 What I Do
 
-Currently, I work as a Web UI Developer at Globant, where I create robust solutions tailored to client needs. My responsibilities include crafting, testing, deploying, and maintaining applications, utilizing CSS and SASS for visually appealing designs. I leverage tools like Callbacks, Promises, and Storybook to enhance the developer experience and ensure efficient, scalable code.
+Currently, I work as a Web UI Developer at Globant, where I create robust solutions tailored to client needs. My responsibilities include crafting, testing, deploying, and maintaining applications, utilizing CSS and SASS for visually appealing designs. I leverage architectural patterns, atomic design principles, and SOLID principles to enhance the developer experience and ensure the development of efficient, scalable, and maintainable code.
 
 I utilize Git for version control and apply methodologies such as BEM and SMACSS for maintainable CSS. I also focus on meeting accessibility standards and have experience with Docker for streamlined development processes. Fluent in Spanish and with upper-intermediate English proficiency, I effectively collaborate within diverse teams.
 ## 🌱 Learning
