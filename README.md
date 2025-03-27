@@ -17,7 +17,7 @@ I'm always looking to learn and improve my skills. Currently, I'm deeply focused
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me at cotosolis.d@gmail.com or through mi [Linked-in](https://linkedin.com/in/josesolisdev) profile.
+Feel free to reach out to me at cotosolis.d@gmail.com or through my [Linked-in](https://linkedin.com/in/josesolisdev) profile.
 
 Don't hesitate to check out my projects and collaborate if you have an interesting idea!
 
